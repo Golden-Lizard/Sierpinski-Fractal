@@ -1,0 +1,7 @@
+﻿  SierpinskiTriangle.cpp
+     Creating library x64\Release\LZRDDiagram.lib and object x64\Release\LZRDDiagram.exp
+  Generating code
+  Finished generating code
+rxapi.lib(libinit.obj) : warning LNK4099: PDB 'rxapi.pdb' was not found with 'rxapi.lib(libinit.obj)' or at 'C:\Users\Dorin\documents\visual studio 2015\Projects\ArxProject2\x64\Release\rxapi.pdb'; linking object as if no debug info
+  Diagram.vcxproj -> C:\Users\Dorin\documents\visual studio 2015\Projects\ArxProject2\x64\Release\LZRDDiagram.dbx
+  Diagram.vcxproj -> C:\Users\Dorin\documents\visual studio 2015\Projects\ArxProject2\x64\Release\LZRDDiagram.pdb (Full PDB)
